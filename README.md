@@ -41,17 +41,6 @@ Soy estudiante de segundo semestre en **Tecnología en Desarrollo de Software**,
 
 ---
 
-## 🚀 En Este Momento Estoy
-
-| Área | Progreso |
-|------|----------|
-| Fundamentos de Programación (POO) | 🟩🟩🟩🟩🟨⬜⬜ En curso |
-| HTML, CSS y JavaScript | 🟩🟩🟩⬜⬜⬜⬜ Explorando |
-| Diseño Responsivo | 🟩🟩⬜⬜⬜⬜⬜ Iniciando |
-| Git & GitHub | 🟩🟩🟩🟩⬜⬜⬜ Avanzando |
-| IoT con Arduino (BeeStation) | 🟩🟩🟩🟩🟩⬜⬜ En desarrollo |
-
----
 
 ## 🐝 BeeStation — Mi Proyecto Destacado
 
