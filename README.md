@@ -18,9 +18,9 @@
 
 Soy estudiante de segundo semestre en **Tecnología en Desarrollo de Software**, comprometido con fortalecer mis bases en programación a través del aprendizaje autodidacta y la construcción de proyectos reales.
 
-- 🎓 Estudiante en **IU Digital de Antioquia** - **Programacion De Software CFMA SENA**
+- 🎓 Estudiando en **IU Digital de Antioquia** y **SENA**
 - 🌱 Aprendiendo de forma consistente, construyendo con propósito
-- 🐝 Trabajando en **BeeStation** IoT para apicultura inteligente
+- 🐝 Trabajando en **BeeStation** — IoT para apicultura inteligente
 - 💡 Filosofía: *cada línea de código es un paso adelante*
 
 ---
@@ -80,6 +80,29 @@ Este proyecto me permite aplicar conceptos de:
 
 ---
 
+## 🏫 Instituciones
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="assets/iu-digital.png" width="160" alt="IU Digital de Antioquia"/><br/>
+      <b>Institución Universitaria Digital de Antioquia</b><br/>
+      <sub>Tecnología en Desarrollo de Software</sub>
+    </td>
+    <td align="center" width="250">
+      <img src="assets/sena.png" width="120" alt="SENA"/><br/>
+      <b>Servicio Nacional de Aprendizaje — SENA</b><br/>
+      <sub>Centro de Formación Ambiental · Proyecto IoT</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📫 Conecta Conmigo
 
 <div align="center">
@@ -93,7 +116,7 @@ Este proyecto me permite aplicar conceptos de:
 <div align="center">
 
 *Estoy en el inicio de mi camino en desarrollo de software.*
-*Cada proyecto, cada línea de código, es un paso adelante.* ✨
+*Cada línea de código es un paso adelante.* ✨
 
 **⭐ Si algo de lo que construyo te resulta útil, una estrella es siempre bienvenida.**
 
