@@ -2,82 +2,78 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F7A800&center=true&vCenter=true&width=700&lines=Construyendo+BeeStation+%E2%80%94+IoT+para+Apicultura;Segundo+semestre+en+IU+Digital+de+Antioquia;Aprendiendo+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Cada+commit+es+un+paso+adelante)](https://github.com/jeronimoparra-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F7A800&center=true&vCenter=true&width=700&lines=Building+BeeStation+%E2%80%94+IoT+for+Beekeeping;Second+semester+at+IU+Digital+de+Antioquia;Learning+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Every+commit+is+a+step+forward)](https://github.com/jeronimoparra-ai)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/jeronimoparra-ai?label=Followers&style=for-the-badge&color=F7A800&labelColor=1a1a1a&logo=github)](https://github.com/jeronimoparra-ai)
-[![Profile Views](https://komarev.com/ghpvc/?username=jeronimoparra-ai&color=F7A800&style=for-the-badge&label=Visitas)](https://github.com/jeronimoparra-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=jeronimoparra-ai&color=F7A800&style=for-the-badge&label=Views)](https://github.com/jeronimoparra-ai)
 [![GitHub Stars](https://img.shields.io/github/stars/jeronimoparra-ai?style=for-the-badge&color=F7A800&labelColor=1a1a1a&logo=github&label=Stars)](https://github.com/jeronimoparra-ai)
 
 </div>
 
 <br/>
 
-## 🎯 Sobre Mí
+## 🎯 About Me
 
 <div align="center">
 <br/>
-
-<sup>✦ &nbsp;&nbsp;&nbsp; P E R F I L &nbsp;&nbsp;&nbsp; ✦</sup>
-
+<sup>✦ &nbsp;&nbsp;&nbsp; P R O F I L E &nbsp;&nbsp;&nbsp; ✦</sup>
 <br/><br/>
 
 <table>
   <tr>
-    <td align="right"><sub>NOMBRE</sub></td>
+    <td align="right"><sub>NAME</sub></td>
     <td><b>Andrés Jeronimo Parra Bastidas</b></td>
   </tr>
   <tr>
-    <td align="right"><sub>UBICACIÓN</sub></td>
+    <td align="right"><sub>LOCATION</sub></td>
     <td>El Bagre, Antioquia &nbsp;🇨🇴</td>
   </tr>
   <tr>
-    <td align="right"><sub>CARRERA</sub></td>
-    <td>Tecnología en Desarrollo de Software</td>
+    <td align="right"><sub>DEGREE</sub></td>
+    <td>Technology in Software Development</td>
   </tr>
   <tr>
-    <td align="right"><sub>SEMESTRE</sub></td>
-    <td>Segundo semestre</td>
+    <td align="right"><sub>SEMESTER</sub></td>
+    <td>Second semester</td>
   </tr>
   <tr>
-    <td align="right"><sub>INSTITUCIONES</sub></td>
+    <td align="right"><sub>INSTITUTIONS</sub></td>
     <td>IU Digital de Antioquia &nbsp;·&nbsp; SENA</td>
   </tr>
   <tr>
-    <td align="right"><sub>APRENDIENDO</sub></td>
+    <td align="right"><sub>LEARNING</sub></td>
     <td>Java &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
   </tr>
   <tr>
-    <td align="right"><sub>PROYECTO</sub></td>
+    <td align="right"><sub>PROJECT</sub></td>
     <td>🐝 &nbsp;BeeStation</td>
   </tr>
   <tr>
-    <td align="right"><sub>FILOSOFÍA</sub></td>
-    <td><i>Aprender · Construir · Iterar · Crecer</i></td>
+    <td align="right"><sub>PHILOSOPHY</sub></td>
+    <td><i>Learn · Build · Iterate · Grow</i></td>
   </tr>
 </table>
 
 <br/>
-
 <sup>✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦</sup>
-
 <br/>
 </div>
 
 <br/>
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Lenguajes
+### Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-### Herramientas
+### Tools
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
@@ -87,22 +83,20 @@
 
 <br/>
 
-## 🐝 BeeStation — Proyecto Principal
+## 🐝 BeeStation — Main Project
 
-> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT desarrollado junto al **SENA Centro de Formación Minero Ambiental**.
+> Intelligent monitoring of bioclimatic variables in *Apis mellifera* hives using IoT sensors, developed in collaboration with **SENA Centro de Formación Minero Ambiental**.
 
-- 🌡️ Mide temperatura y humedad dentro de la colmena
-- 📡 Transmite datos en tiempo real
-- 📊 Analiza condiciones óptimas para las abejas
-- 🔔 Genera alertas ante condiciones críticas
+- 🌡️ Measures temperature and humidity inside the hive
+- 📡 Transmits data in real time
+- 📊 Analyzes optimal conditions for bees
+- 🔔 Generates alerts under critical conditions
 
-
-
-[![Ver Proyecto](https://img.shields.io/badge/Ver_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://jeronimoparra-ai.github.io/-Sistema-IoT-de-Monitoreo-Ap-cola/)
+[![View Project](https://img.shields.io/badge/View_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://jeronimoparra-ai.github.io/-Sistema-IoT-de-Monitoreo-Ap-cola/)
 
 <br/>
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <div align="center">
 
@@ -115,13 +109,13 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeronimoparra-ai&bg_color=0d1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=false&border_color=F7A800" alt="Actividad"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeronimoparra-ai&bg_color=0d1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=false&border_color=F7A800" alt="Activity"/>
 
 </div>
 
 <br/>
 
-## 🎵 Escuchando en Spotify
+## 🎵 Listening on Spotify
 
 <div align="center">
 
@@ -131,7 +125,7 @@
 
 <br/>
 
-## 📫 Conecta Conmigo
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -144,5 +138,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800,1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>✨ Cada commit cuenta · El Bagre, Antioquia · 2026</sub>
+  <sub>✨ Every commit counts · El Bagre, Antioquia · 2026</sub>
 </div>
