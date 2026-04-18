@@ -63,7 +63,13 @@
 
 <br/>
 
-## 🛠️ Tech Stack &nbsp; ![](https://img.shields.io/badge/Progress-25%25%20Still%20Learning-00FF41?style=for-the-badge&labelColor=0d1117&logo=matrix)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+`[█████░░░░░░░░░░░░░░░]` &nbsp; ![](https://img.shields.io/badge/25%25-Still_Learning-00FF41?style=flat-square&labelColor=0d1117)
+
+</div>
 
 <div align="center">
 
