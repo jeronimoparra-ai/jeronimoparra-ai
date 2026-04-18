@@ -58,17 +58,8 @@ public class JeronimoParra {
 
 ## 🐝 BeeStation — Proyecto Principal
 
-<div align="center">
-
-<table>
-<tr>
-<td width="60%">
-
-### Sistema IoT para Monitoreo de Colmenas
-
 > Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT — desarrollado junto al **SENA Centro de Formación Ambiental**.
 
-**¿Qué hace?**
 - 🌡️ Mide temperatura y humedad dentro de la colmena
 - 📡 Transmite datos en tiempo real
 - 📊 Analiza condiciones óptimas para las abejas
@@ -76,29 +67,7 @@ public class JeronimoParra {
 
 **Equipo:** Parra · Montoya · Noriega
 
-</td>
-<td width="40%" align="center">
-
-```
-  +-----------+
-  |           |
-  |  BEESTA.  |
-  |  v 1.0    |
-  |           |
-  |  IoT      |
-  |  SENA     |
-  |  2025     |
-  |           |
-  +-----------+
-```
-
 [![Ver Proyecto](https://img.shields.io/badge/Ver_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jeronimoparra-ai)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
@@ -116,32 +85,6 @@ public class JeronimoParra {
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeronimoparra-ai&bg_color=0d1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=false&border_color=F7A800" alt="Actividad"/>
-
-</div>
-
-<br/>
-
-## 🏫 Instituciones
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="280">
-      <img src="assets/iu-digital.png" width="150" alt="IU Digital"/><br/><br/>
-      <b>IU Digital de Antioquia</b><br/>
-      <sub>Tecnología en Desarrollo de Software · 2025</sub>
-    </td>
-    <td align="center" width="60">
-      <h2>&</h2>
-    </td>
-    <td align="center" width="280">
-      <img src="assets/sena.png" width="110" alt="SENA"/><br/><br/>
-      <b>SENA — Centro de Formación Ambiental</b><br/>
-      <sub>Proyecto IoT · BeeStation · 2025</sub>
-    </td>
-  </tr>
-</table>
 
 </div>
 
