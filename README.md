@@ -23,35 +23,35 @@
 
 <table>
   <tr>
-    <td align="right"><sub>[ NAME ]</sub></td>
+    <td align="right"><sub> NAME </sub></td>
     <td><b>Andrés Jeronimo Parra Bastidas</b></td>
   </tr>
   <tr>
-    <td align="right"><sub>[ LOCATION ]</sub></td>
+    <td align="right"><sub> LOCATION </sub></td>
     <td>El Bagre, Antioquia &nbsp;🇨🇴</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ DEGREE ]</sub></td>
+    <td align="right"><sub> DEGREE </sub></td>
     <td>Technology in Software Development</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ SEMESTER ]</sub></td>
+    <td align="right"><sub> SEMESTER </sub></td>
     <td>Second semester</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ INSTITUTIONS ]</sub></td>
+    <td align="right"><sub> INSTITUTIONS </sub></td>
     <td>IU Digital de Antioquia &nbsp;·&nbsp; SENA</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ LEARNING ]</sub></td>
+    <td align="right"><sub> LEARNING </sub></td>
     <td>Java &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ PROJECT ]</sub></td>
+    <td align="right"><sub> PROJECT </sub></td>
     <td>🐝 &nbsp;BeeStation</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ PHILOSOPHY ]</sub></td>
+    <td align="right"><sub> PHILOSOPHY </sub></td>
     <td><i>Learn · Build · Iterate · Grow</i></td>
   </tr>
 </table>
