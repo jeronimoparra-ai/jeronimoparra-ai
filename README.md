@@ -84,3 +84,58 @@
 <br/>
 
 ## 🐝 BeeStation — Main Project
+> Intelligent monitoring of bioclimatic variables in *Apis mellifera* hives using IoT sensors, developed in collaboration with **SENA Centro de Formación Minero Ambiental**.
+
+- 🌡️ Measures temperature and humidity inside the hive
+- 📡 Transmits data in real time
+- 📊 Analyzes optimal conditions for bees
+- 🔔 Generates alerts under critical conditions
+
+[![View Project](https://img.shields.io/badge/>>_VIEW_BEESTATION-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://jeronimoparra-ai.github.io/-Sistema-IoT-de-Monitoreo-Ap-cola/)
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeronimoparra-ai&show_icons=true&theme=transparent&title_color=00FF41&icon_color=FF0000&text_color=00FF41&border_color=00FF41&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoparra-ai&layout=compact&theme=transparent&title_color=00FF41&text_color=00FF41&border_color=00FF41"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jeronimoparra-ai&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41&background=0d1117" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeronimoparra-ai&bg_color=0d1117&color=00FF41&line=FF0000&point=00FF41&area=true&hide_border=false&border_color=00FF41" alt="Activity"/>
+
+</div>
+
+<br/>
+
+## 🎵 Listening on Spotify
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rpccejjt73rtkbwp6kqxscztbm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rpccejjt73rtkbwp6kqxscztbm&redirect=true)
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/>>_GitHub-jeronimoparra--ai-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/jeronimoparra-ai)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,00FF41,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<div align="center">
+  <sub>⚡ Every commit counts &nbsp;|&nbsp; El Bagre, Antioquia &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; <code>while(alive) { code(); }</code></sub>
+</div>
