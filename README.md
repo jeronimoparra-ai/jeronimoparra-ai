@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F7A800&center=true&vCenter=true&width=700&lines=%F0%9F%90%9D+Construyendo+BeeStation+%E2%80%94+IoT+para+Apicultura;%E2%98%95+Segundo+semestre+en+IU+Digital+de+Antioquia;%F0%9F%9A%80+Aprendiendo+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;%F0%9F%94%A5+Cada+commit+es+un+paso+adelante)](https://github.com/jeronimoparra-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F7A800&center=true&vCenter=true&width=700&lines=Construyendo+BeeStation+%E2%80%94+IoT+para+Apicultura;Segundo+semestre+en+IU+Digital+de+Antioquia;Aprendiendo+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Cada+commit+es+un+paso+adelante)](https://github.com/jeronimoparra-ai)
 
 <br/>
 
@@ -14,19 +14,19 @@
 
 <br/>
 
-## ⬡ Sobre Mí
+## 🎯 Sobre Mí
 
 ```java
 public class JeronimoParra {
 
     String nombre     = "Andrés Jeronimo Parra Bastidas";
-    String ubicacion  = "Caucasia, Antioquia 🇨🇴";
+    String ubicacion  = "Caucasia, Antioquia, Colombia";
     String carrera    = "Tecnología en Desarrollo de Software";
     String semestre   = "Segundo semestre";
 
     String[] instituciones = { "IU Digital de Antioquia", "SENA" };
     String[] aprendiendo   = { "Java (POO)", "HTML", "CSS", "JavaScript", "Git" };
-    String   proyectoStar  = "BeeStation 🐝 — IoT para monitoreo de colmenas";
+    String   proyectoStar  = "BeeStation — IoT para monitoreo de colmenas";
 
     String modoVida() {
         return "Aprender · Construir · Iterar · Crecer";
@@ -66,7 +66,7 @@ public class JeronimoParra {
 
 ### Sistema IoT para Monitoreo de Colmenas
 
-> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT conectados — desarrollado junto al **SENA Centro de Formación Ambiental**.
+> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT — desarrollado junto al **SENA Centro de Formación Ambiental**.
 
 **¿Qué hace?**
 - 🌡️ Mide temperatura y humedad dentro de la colmena
@@ -80,20 +80,19 @@ public class JeronimoParra {
 <td width="40%" align="center">
 
 ```
-    ██████████
-   ████  ██████
-  ██  🐝  ████
-  ████  ██████
-   ██████████
-     ██████
-      ████
-       ██
-
-  BeeStation v1.0
-  IoT · SENA · 2025
+  +-----------+
+  |           |
+  |  BEESTA.  |
+  |  v 1.0    |
+  |           |
+  |  IoT      |
+  |  SENA     |
+  |  2025     |
+  |           |
+  +-----------+
 ```
 
-[![Ver Proyecto](https://img.shields.io/badge/🐝_Ver_BeeStation-F7A800?style=for-the-badge&logoColor=black)](https://github.com/jeronimoparra-ai)
+[![Ver Proyecto](https://img.shields.io/badge/Ver_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jeronimoparra-ai)
 
 </td>
 </tr>
@@ -107,7 +106,7 @@ public class JeronimoParra {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeronimoparra-ai&show_icons=true&theme=transparent&title_color=F7A800&icon_color=F7A800&text_color=ffffff&border_color=F7A800&hide_border=false&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeronimoparra-ai&show_icons=true&theme=transparent&title_color=F7A800&icon_color=F7A800&text_color=ffffff&border_color=F7A800&count_private=true&rank_icon=github"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoparra-ai&layout=compact&theme=transparent&title_color=F7A800&text_color=ffffff&border_color=F7A800"/>
 
 <br/><br/>
@@ -116,7 +115,7 @@ public class JeronimoParra {
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeronimoparra-ai&theme=darkhub&title_color=F7A800&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeronimoparra-ai&bg_color=0d1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=false&border_color=F7A800" alt="Actividad"/>
 
 </div>
 
@@ -128,15 +127,15 @@ public class JeronimoParra {
 
 <table>
   <tr>
-    <td align="center" width="260">
+    <td align="center" width="280">
       <img src="assets/iu-digital.png" width="150" alt="IU Digital"/><br/><br/>
       <b>IU Digital de Antioquia</b><br/>
       <sub>Tecnología en Desarrollo de Software · 2025</sub>
     </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/%2B-F7A800?style=for-the-badge&logoColor=black" width="40"/>
+    <td align="center" width="60">
+      <h2>&</h2>
     </td>
-    <td align="center" width="260">
+    <td align="center" width="280">
       <img src="assets/sena.png" width="110" alt="SENA"/><br/><br/>
       <b>SENA — Centro de Formación Ambiental</b><br/>
       <sub>Proyecto IoT · BeeStation · 2025</sub>
