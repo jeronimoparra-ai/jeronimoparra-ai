@@ -121,17 +121,6 @@
 
 <br/>
 
-## 🚀 Ruta de Aprendizaje
-
-| Área | Estado | Nivel |
-|------|--------|-------|
-| ☕ Java — POO | 🟡 En curso | `████████░░` 80% |
-| 🌐 HTML & CSS | 🟡 En curso | `██████░░░░` 60% |
-| ⚡ JavaScript | 🔵 Explorando | `████░░░░░░` 40% |
-| 🔀 Git & GitHub | 🟡 En curso | `███████░░░` 70% |
-| 📡 IoT & Arduino | 🟡 En curso | `███████░░░` 70% |
-| 📐 Diseño Responsivo | 🔵 Iniciando | `███░░░░░░░` 30% |
-
 <br/>
 
 ## 📫 Conecta Conmigo
