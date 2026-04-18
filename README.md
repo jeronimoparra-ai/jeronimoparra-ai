@@ -1,112 +1,151 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800,1a1a2e&height=200&section=header&text=Andrés%20Jeronimo%20Parra&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20in%20Progress%20·%20IoT%20Builder%20·%20Autodidact&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-# Hola, soy Andrés Jeronimo Parra Bastidas 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F7A800&center=true&vCenter=true&width=700&lines=Construyendo+BeeStation+%E2%80%94+IoT+para+Apicultura;Segundo+semestre+en+IU+Digital+de+Antioquia;Aprendiendo+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Cada+commit+es+un+paso+adelante)](https://github.com/jeronimoparra-ai)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Estudiante+de+Desarrollo+de+Software;Aprendiendo+haciendo+%F0%9F%9A%80;Construyendo+BeeStation+%F0%9F%90%9D)](https://git.io/typing-svg)
+<br/>
 
-*Construyendo mis bases en programación, aprendiendo haciendo,*
-*y explorando las posibilidades del desarrollo de software.*
-
-[![GitHub followers](https://img.shields.io/github/followers/jeronimoparra-ai?label=Followers&style=social)](https://github.com/jeronimoparra-ai)
-[![Profile Views](https://komarev.com/ghpvc/?username=jeronimoparra-ai&color=F7A800&style=flat-square&label=Visitas+al+perfil)](https://github.com/jeronimoparra-ai)
+[![GitHub followers](https://img.shields.io/github/followers/jeronimoparra-ai?label=Followers&style=for-the-badge&color=F7A800&labelColor=1a1a1a&logo=github)](https://github.com/jeronimoparra-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=jeronimoparra-ai&color=F7A800&style=for-the-badge&label=Visitas)](https://github.com/jeronimoparra-ai)
+[![GitHub Stars](https://img.shields.io/github/stars/jeronimoparra-ai?style=for-the-badge&color=F7A800&labelColor=1a1a1a&logo=github&label=Stars)](https://github.com/jeronimoparra-ai)
 
 </div>
 
----
+<br/>
 
 ## 🎯 Sobre Mí
 
-Soy estudiante de segundo semestre en **Tecnología en Desarrollo de Software**, comprometido con fortalecer mis bases en programación a través del aprendizaje autodidacta y la construcción de proyectos reales.
-
-- 🎓 Estudiando en **IU Digital de Antioquia** y **SENA**
-- 🌱 Aprendiendo de forma consistente, construyendo con propósito
-- 🐝 Trabajando en **BeeStation** — IoT para apicultura inteligente
-- 💡 Filosofía: *cada línea de código es un paso adelante*
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
 <div align="center">
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<sup>✦ &nbsp;&nbsp;&nbsp; P E R F I L &nbsp;&nbsp;&nbsp; ✦</sup>
 
-</div>
-
----
-
-
-## 🐝 BeeStation — Mi Proyecto Destacado
-
-> **Sistema IoT para monitoreo inteligente de apiarios** — Una solución tecnológica para la apicultura moderna.
-
-Este proyecto me permite aplicar conceptos de:
-
-- ⚙️ **Programación aplicada** — lógica real en hardware físico
-- 🌐 **Sistemas IoT** — sensores, conectividad y datos en tiempo real
-- 📊 **Análisis de datos** — variables bioclimáticas de colmenas
-- 🤝 **Trabajo en equipo** — desarrollo colaborativo con GitHub
-
-[![BeeStation](https://img.shields.io/badge/🐝_BeeStation-Ver_Proyecto-F7A800?style=for-the-badge)](https://github.com/jeronimoparra-ai)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeronimoparra-ai&show_icons=true&theme=dark&title_color=F7A800&icon_color=F7A800&border_color=F7A800&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoparra-ai&layout=compact&theme=dark&title_color=F7A800&border_color=F7A800)
-
-</div>
-
----
-
-## 🏫 Instituciones
-
-<div align="center">
+<br/><br/>
 
 <table>
   <tr>
-    <td align="center" width="250">
-      <img src="assets/iu-digital.png" width="160" alt="IU Digital de Antioquia"/><br/>
-      <b>Institución Universitaria Digital de Antioquia</b><br/>
-      <sub>Tecnología en Desarrollo de Software</sub>
-    </td>
-    <td align="center" width="250">
-      <img src="assets/sena.png" width="120" alt="SENA"/><br/>
-      <b>Servicio Nacional de Aprendizaje — SENA</b><br/>
-      <sub>Centro de Formación Ambiental · Proyecto IoT</sub>
-    </td>
+    <td align="right"><sub>NOMBRE</sub></td>
+    <td><b>Andrés Jeronimo Parra Bastidas</b></td>
+  </tr>
+  <tr>
+    <td align="right"><sub>UBICACIÓN</sub></td>
+    <td>Caucasia, Antioquia &nbsp;🇨🇴</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>CARRERA</sub></td>
+    <td>Tecnología en Desarrollo de Software</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>SEMESTRE</sub></td>
+    <td>Segundo semestre</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>INSTITUCIONES</sub></td>
+    <td>IU Digital de Antioquia &nbsp;·&nbsp; SENA</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>APRENDIENDO</sub></td>
+    <td>Java &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>PROYECTO</sub></td>
+    <td>🐝 &nbsp;BeeStation — IoT para monitoreo de colmenas</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>FILOSOFÍA</sub></td>
+    <td><i>Aprender · Construir · Iterar · Crecer</i></td>
   </tr>
 </table>
 
+<br/>
+
+<sup>✦ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✦</sup>
+
+<br/>
 </div>
 
----
+<br/>
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Lenguajes
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+### Herramientas
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+## 🐝 BeeStation — Proyecto Principal
+
+> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT — desarrollado junto al **SENA Centro de Formación Ambiental**.
+
+- 🌡️ Mide temperatura y humedad dentro de la colmena
+- 📡 Transmite datos en tiempo real
+- 📊 Analiza condiciones óptimas para las abejas
+- 🔔 Genera alertas ante condiciones críticas
+
+**Equipo:** Parra · Montoya · Noriega
+
+[![Ver Proyecto](https://img.shields.io/badge/Ver_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jeronimoparra-ai)
+
+<br/>
+
+## 📊 Estadísticas
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeronimoparra-ai&show_icons=true&theme=transparent&title_color=F7A800&icon_color=F7A800&text_color=ffffff&border_color=F7A800&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoparra-ai&layout=compact&theme=transparent&title_color=F7A800&text_color=ffffff&border_color=F7A800"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jeronimoparra-ai&theme=dark&ring=F7A800&fire=F7A800&currStreakLabel=F7A800&sideLabels=F7A800&dates=888888&border=F7A800&background=0d1117" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeronimoparra-ai&bg_color=0d1117&color=F7A800&line=F7A800&point=ffffff&area=true&hide_border=false&border_color=F7A800" alt="Actividad"/>
+
+</div>
+
+<br/>
+
+## 🚀 Ruta de Aprendizaje
+
+| Área | Estado | Nivel |
+|------|--------|-------|
+| ☕ Java — POO | 🟡 En curso | `████████░░` 80% |
+| 🌐 HTML & CSS | 🟡 En curso | `██████░░░░` 60% |
+| ⚡ JavaScript | 🔵 Explorando | `████░░░░░░` 40% |
+| 🔀 Git & GitHub | 🟡 En curso | `███████░░░` 70% |
+| 📡 IoT & Arduino | 🟡 En curso | `███████░░░` 70% |
+| 📐 Diseño Responsivo | 🔵 Iniciando | `███░░░░░░░` 30% |
+
+<br/>
 
 ## 📫 Conecta Conmigo
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-jeronimoparra--ai-181717?style=for-the-badge&logo=github)](https://github.com/jeronimoparra-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-jeronimoparra--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeronimoparra-ai)
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800,1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-
-*Estoy en el inicio de mi camino en desarrollo de software.*
-*Cada línea de código es un paso adelante.* ✨
-
-**⭐ Si algo de lo que construyo te resulta útil, una estrella es siempre bienvenida.**
-
+<sub>✨ Cada commit cuenta · Caucasia, Antioquia · 2025</sub>
 </div>
