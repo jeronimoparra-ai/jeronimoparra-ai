@@ -136,5 +136,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800,1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>✨ Cada commit cuenta · Caucasia, Antioquia · 2025</sub>
+<sub>✨ Cada commit cuenta · El Bagre, Antioquia · 2025</sub>
 </div>
