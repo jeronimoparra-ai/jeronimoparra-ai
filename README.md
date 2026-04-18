@@ -87,9 +87,9 @@
 
 <br/>
 
-## 🐝 BeeStation — Proyecto Principal
+## 🐝 BeeStation Proyecto Principal
 
-> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT — desarrollado junto al **SENA Centro de Formación Ambiental**.
+> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT desarrollado junto al **SENA Centro de Formación Ambiental**.
 
 - 🌡️ Mide temperatura y humedad dentro de la colmena
 - 📡 Transmite datos en tiempo real
