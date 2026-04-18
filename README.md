@@ -63,7 +63,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack &nbsp; ![Progress](https://progress-bar.dev/5/?title=still+learning&width=200&color=00FF41)
+## 🛠️ Tech Stack &nbsp; ![](https://img.shields.io/badge/Progress-25%25%20Still%20Learning-00FF41?style=for-the-badge&labelColor=0d1117&logo=matrix)
 
 <div align="center">
 
