@@ -78,6 +78,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 </div>
 
