@@ -65,6 +65,8 @@
 
 ## 🛠️ Tech Stack &nbsp; <sub>![](https://img.shields.io/badge/status-still%20learning-FF0000?style=flat-square&labelColor=0d1117)</sub>
 
+<div align="center">
+
 ### `// Languages`
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
