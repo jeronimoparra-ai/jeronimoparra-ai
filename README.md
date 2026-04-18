@@ -63,13 +63,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![](https://img.shields.io/badge/⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜-Early%20Stage%20%E2%80%94%2025%25-00FF41?style=for-the-badge&labelColor=0d1117)
-
-</div>
+## 🛠️ Tech Stack &nbsp; <sub>![](https://img.shields.io/badge/status-still%20learning-FF0000?style=flat-square&labelColor=0d1117)</sub>
 
 ### `// Languages`
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
