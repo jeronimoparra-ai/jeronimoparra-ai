@@ -18,9 +18,9 @@
 
 Soy estudiante de segundo semestre en **Tecnología en Desarrollo de Software**, comprometido con fortalecer mis bases en programación a través del aprendizaje autodidacta y la construcción de proyectos reales.
 
-- 🎓 Estudiante en **IU Digital de Antioquia**
+- 🎓 Estudiante en **IU Digital de Antioquia** - **Programacion De Software CFMA SENA**
 - 🌱 Aprendiendo de forma consistente, construyendo con propósito
-- 🐝 Trabajando en **BeeStation** — IoT para apicultura inteligente
+- 🐝 Trabajando en **BeeStation** IoT para apicultura inteligente
 - 💡 Filosofía: *cada línea de código es un paso adelante*
 
 ---
