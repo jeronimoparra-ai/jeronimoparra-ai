@@ -72,7 +72,6 @@
 <div align="center">
 
 ### Lenguajes
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
@@ -136,5 +135,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800,1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>✨ Cada commit cuenta · El Bagre, Antioquia · 2025</sub>
+<sub>✨ Cada commit cuenta · El Bagre, Antioquia · 2026</sub>
 </div>
