@@ -72,7 +72,7 @@
 <div align="center">
 
 ### Lenguajes
-
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
