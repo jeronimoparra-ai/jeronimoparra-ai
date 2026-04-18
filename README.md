@@ -63,7 +63,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack &nbsp; ![Progress](https://progress-bar.dev/5/?title=still+learning&width=200&color=00FF41)
 
 <div align="center">
 
