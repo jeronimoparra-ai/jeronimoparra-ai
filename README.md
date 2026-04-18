@@ -96,9 +96,9 @@
 - 📊 Analiza condiciones óptimas para las abejas
 - 🔔 Genera alertas ante condiciones críticas
 
-**Equipo:** Parra · Montoya · Noriega
 
-[![Ver Proyecto](https://img.shields.io/badge/Ver_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jeronimoparra-ai)
+
+[![Ver Proyecto](https://img.shields.io/badge/Ver_BeeStation-F7A800?style=for-the-badge&logo=github&logoColor=black)](https://jeronimoparra-ai.github.io/-Sistema-IoT-de-Monitoreo-Ap-cola/)
 
 <br/>
 
