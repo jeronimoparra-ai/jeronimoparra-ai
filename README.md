@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="right"><sub>UBICACIÓN</sub></td>
-    <td>Caucasia, Antioquia &nbsp;🇨🇴</td>
+    <td>El Bagre, Antioquia &nbsp;🇨🇴</td>
   </tr>
   <tr>
     <td align="right"><sub>CARRERA</sub></td>
