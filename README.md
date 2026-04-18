@@ -87,14 +87,12 @@ Este proyecto me permite aplicar conceptos de:
 <table>
   <tr>
     <td align="center" width="250">
-      <img <img width="433" height="234" alt="11 -IU-DIGITAL" src="https://github.com/user-attachments/assets/133eee6f-d78b-46f2-b03b-14bc31b4972b" />
-/><br/>
+      <img <img width="433" height="234" alt="11 -IU-DIGITAL" src="https://github.com/user-attachments/assets/133eee6f-d78b-46f2-b03b-14bc31b4972b"/><br/>
       <b>Institución Universitaria Digital de Antioquia</b><br/>
       <sub>Tecnología en Desarrollo de Software</sub>
     </td>
     <td align="center" width="250">
-      <img <img width="220" height="220" alt="Logo-de-SENA-png-verde-300x300-1" src="https://github.com/user-attachments/assets/c8cb9889-8102-4708-86d9-cae0d5386924" />
-/><br/>
+      <img <img width="220" height="220" alt="Logo-de-SENA-png-verde-300x300-1" src="https://github.com/user-attachments/assets/c8cb9889-8102-4708-86d9-cae0d5386924"/><br/>
       <b>Servicio Nacional de Aprendizaje — SENA</b><br/>
       <sub>Centro de Formación Ambiental · Proyecto IoT</sub>
     </td>
