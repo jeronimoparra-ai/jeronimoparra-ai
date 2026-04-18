@@ -72,7 +72,7 @@
 <div align="center">
 
 ### Lenguajes
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
@@ -89,7 +89,7 @@
 
 ## 🐝 BeeStation — Proyecto Principal
 
-> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT — desarrollado junto al **SENA Centro de Formación Ambiental**.
+> Monitoreo inteligente de variables bioclimáticas en colmenas de *Apis mellifera* mediante sensores IoT desarrollado junto al **SENA Centro de Formación Minero Ambiental**.
 
 - 🌡️ Mide temperatura y humedad dentro de la colmena
 - 📡 Transmite datos en tiempo real
@@ -136,5 +136,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A800,1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>✨ Cada commit cuenta · Caucasia, Antioquia · 2025</sub>
+<sub>✨ Cada commit cuenta · El Bagre, Antioquia · 2026</sub>
 </div>
