@@ -67,11 +67,9 @@
 
 <div align="center">
 
-`[█████░░░░░░░░░░░░░░░]` &nbsp; ![](https://img.shields.io/badge/25%25-Still_Learning-00FF41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜-Early%20Stage%20%E2%80%94%2025%25-00FF41?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
-<div align="center">
 
 ### `// Languages`
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
