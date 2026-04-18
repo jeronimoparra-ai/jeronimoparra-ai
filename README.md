@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="right"><sub>PROYECTO</sub></td>
-    <td>🐝 &nbsp;BeeStation — IoT para monitoreo de colmenas</td>
+    <td>🐝 &nbsp;BeeStation</td>
   </tr>
   <tr>
     <td align="right"><sub>FILOSOFÍA</sub></td>
