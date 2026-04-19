@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;)](https://github.com/jeronimoparra-ai)
 
 </div>
@@ -133,21 +133,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/>>_GitHub-jeronimoparra--ai-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/jeronimoparra-ai
-<br/>
-
+[![GitHub](https://img.shields.io/badge/>>_GitHub-jeronimoparra--ai-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/jeronimoparra-ai)
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,00FF41,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2241bfd3945f2e4e55bea49/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623237622f313534313538303631313632342d5445363451474b524a4738470a5657355349470a4c6f6f702e676966" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <sub>⚡ Every commit counts &nbsp;|&nbsp; El Bagre, Antioquia &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; <code>while(alive) { code(); }</code></sub>
