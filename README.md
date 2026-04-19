@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;)](https://github.com/jeronimoparra-ai)
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Building+BeeStation+%E2%80%94+IoT+for+Beekeeping;Second+semester+at+IU+Digital+de+Antioquia;Learning+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Every+commit+is+a+step+forward)](https://github.com/jeronimoparra-ai)
 
 <br/>
@@ -16,89 +12,95 @@
 
 </div>
 
-<br/>
+---
 
 ## ⚡ About Me
 
 <div align="center">
 <br/>
-<sup>▓▓▒░ &nbsp; P R O F I L E &nbsp; ░▒▓▓</sup>
+<sup>▓▓▒░ &nbsp;&nbsp;&nbsp; P R O F I L E &nbsp;&nbsp;&nbsp; ░▒▓▓</sup>
 <br/><br/>
 
 <table>
   <tr>
-    <td align="right"><sub> NAME </sub></td>
+    <td align="right"><sub>[ NAME ]</sub></td>
     <td><b>Andrés Jeronimo Parra Bastidas</b></td>
   </tr>
   <tr>
-    <td align="right"><sub> LOCATION </sub></td>
+    <td align="right"><sub>[ LOCATION ]</sub></td>
     <td>El Bagre, Antioquia &nbsp;🇨🇴</td>
   </tr>
   <tr>
-    <td align="right"><sub> DEGREE </sub></td>
+    <td align="right"><sub>[ DEGREE ]</sub></td>
     <td>Technology in Software Development</td>
   </tr>
   <tr>
-    <td align="right"><sub> SEMESTER </sub></td>
+    <td align="right"><sub>[ SEMESTER ]</sub></td>
     <td>Second semester</td>
   </tr>
   <tr>
-    <td align="right"><sub> INSTITUTIONS </sub></td>
+    <td align="right"><sub>[ INSTITUTIONS ]</sub></td>
     <td>IU Digital de Antioquia &nbsp;·&nbsp; SENA</td>
   </tr>
   <tr>
-    <td align="right"><sub> LEARNING </sub></td>
+    <td align="right"><sub>[ LEARNING ]</sub></td>
     <td>Java &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
   </tr>
   <tr>
-    <td align="right"><sub> PROJECT </sub></td>
+    <td align="right"><sub>[ PROJECT ]</sub></td>
     <td>🐝 &nbsp;BeeStation</td>
   </tr>
   <tr>
-    <td align="right"><sub> PHILOSOPHY </sub></td>
+    <td align="right"><sub>[ PHILOSOPHY ]</sub></td>
     <td><i>Learn · Build · Iterate · Grow</i></td>
   </tr>
 </table>
 
 <br/>
-<sup>▓▓▒░ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░▒▓▓</sup>
-<br/>
+<sup>▓▓▒░ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ░▒▓▓</sup>
 </div>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack &nbsp; <sub>![](https://img.shields.io/badge/Status-still%20learning-FF0000?style=flat-square&labelColor=0d1117)</sub>
 
 <div align="center">
 
 ### `// Languages`
+
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)&nbsp;
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 ### `// Tools`
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp;
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp;
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)&nbsp;
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 </div>
 
-<br/>
+---
 
 ## 🐝 BeeStation — Main Project
+
 > Intelligent monitoring of bioclimatic variables in *Apis mellifera* hives using IoT sensors, developed in collaboration with **SENA Centro de Formación Minero Ambiental**.
 
-- 🌡️ Measures temperature and humidity inside the hive
-- 📡 Transmits data in real time
-- 📊 Analyzes optimal conditions for bees
-- 🔔 Generates alerts under critical conditions
+| Feature | Description |
+|---|---|
+| 🌡️ Temperature & Humidity | Real-time monitoring inside the hive |
+| 📡 Data Transmission | Live data stream via IoT sensors |
+| 📊 Data Analysis | Optimal condition tracking for bees |
+| 🔔 Alert System | Notifications on critical conditions |
+
+<br/>
 
 [![View Project](https://img.shields.io/badge/>>_VIEW_BEESTATION-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://jeronimoparra-ai.github.io/-Sistema-IoT-de-Monitoreo-Ap-cola/)
 
-<br/>
+---
 
 ## 📊 Stats
 
@@ -117,7 +119,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🎵 Listening on Spotify
 
@@ -127,7 +129,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 📫 Connect With Me
 
@@ -137,10 +139,10 @@
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" style="object-fit:cover; border-radius:8px;"/>
 </div>
 
 <br/>
