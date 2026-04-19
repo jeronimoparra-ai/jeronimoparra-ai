@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,00FF41&height=120&section=header&animation=fadeIn" width="100%"/>
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;)](https://github.com/jeronimoparra-ai)
 
 </div>
