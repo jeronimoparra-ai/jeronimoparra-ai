@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;)](https://github.com/jeronimoparra-ai)
 
 </div>
 
