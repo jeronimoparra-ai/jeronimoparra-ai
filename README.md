@@ -140,6 +140,7 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="300px" style="object-fit:cover; border-radius:8px;"/>
 </div>
