@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;)](https://github.com/jeronimoparra-ai)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Building+BeeStation+%E2%80%94+IoT+for+Beekeeping;Second+semester+at+IU+Digital+de+Antioquia;Learning+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Every+commit+is+a+step+forward)](https://github.com/jeronimoparra-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Building+BeeStation+%E2%80%94+IoT+for+Beekeeping;Second+semester+at+IU+Digital+de+Antioquia;Learning+HTML+%7C+CSS+%7C+JavaScript;Every+commit+is+a+step+forward)](https://github.com/jeronimoparra-ai)
 
 <br/>
 
@@ -23,35 +23,35 @@
 
 <table>
   <tr>
-    <td align="right"><sub>[ NAME ]</sub></td>
+    <td align="right"><sub> NAME </sub></td>
     <td><b>Andrés Jeronimo Parra Bastidas</b></td>
   </tr>
   <tr>
-    <td align="right"><sub>[ LOCATION ]</sub></td>
+    <td align="right"><sub> LOCATION </sub></td>
     <td>El Bagre, Antioquia &nbsp;🇨🇴</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ DEGREE ]</sub></td>
+    <td align="right"><sub> DEGREE </sub></td>
     <td>Technology in Software Development</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ SEMESTER ]</sub></td>
+    <td align="right"><sub> SEMESTER </sub></td>
     <td>Second semester</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ INSTITUTIONS ]</sub></td>
+    <td align="right"><sub> INSTITUTIONS </sub></td>
     <td>IU Digital de Antioquia &nbsp;·&nbsp; SENA</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ LEARNING ]</sub></td>
+    <td align="right"><sub> LEARNING </sub></td>
     <td>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ PROJECT ]</sub></td>
+    <td align="right"><sub> PROJECT </sub></td>
     <td>🐝 &nbsp;BeeStation</td>
   </tr>
   <tr>
-    <td align="right"><sub>[ PHILOSOPHY ]</sub></td>
+    <td align="right"><sub> PHILOSOPHY </sub></td>
     <td><i>Learn · Build · Iterate · Grow</i></td>
   </tr>
 </table>
