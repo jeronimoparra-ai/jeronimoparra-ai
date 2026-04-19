@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,00FF41&height=220&section=header&text=Andrés%20Jeronimo%20Parra&fontSize=40&fontColor=00FF41&fontAlignY=38&desc=Software%20Developer%20in%20Progress%20·%20IoT%20Builder%20·%20Autodidact&descAlignY=58&descSize=16&animation=fadeIn&stroke=00FF41&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,00FF41&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
