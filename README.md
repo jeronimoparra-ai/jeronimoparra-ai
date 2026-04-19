@@ -144,7 +144,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="300px" style="object-fit:cover; border-radius:8px;"/>
 </div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,00FF41,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
