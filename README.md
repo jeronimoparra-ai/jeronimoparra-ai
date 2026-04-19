@@ -140,7 +140,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(1).gif" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
 </div>
 
 <br/>
