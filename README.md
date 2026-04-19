@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="right"><sub>[ LEARNING ]</sub></td>
-    <td>Java &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
+    <td>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Git</td>
   </tr>
   <tr>
     <td align="right"><sub>[ PROJECT ]</sub></td>
