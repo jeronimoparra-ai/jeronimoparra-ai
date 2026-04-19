@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+profile...;Andrés+Jeronimo+Parra;Software+Developer+in+Progress;" alt="Typing SVG"/>
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Building+BeeStation+%E2%80%94+IoT+for+Beekeeping;Second+semester+at+IU+Digital+de+Antioquia;Learning+Java+%7C+HTML+%7C+CSS+%7C+JavaScript;Every+commit+is+a+step+forward)](https://github.com/jeronimoparra-ai)
 
 <br/>
