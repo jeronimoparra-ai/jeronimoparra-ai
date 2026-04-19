@@ -140,9 +140,8 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="300px" style="object-fit:cover; border-radius:8px;"/>
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100%" height="300px" style="object-fit:cover; border-radius:8px;"/>
 </div>
 
 <br/>
