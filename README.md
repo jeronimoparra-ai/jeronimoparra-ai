@@ -62,7 +62,7 @@
 
 ---
 
-## 🛠️ Tech Stack &nbsp; <sub>![](https://img.shields.io/badge/Status-still%20learning-FF0000?style=flat-square&labelColor=0d1117)</sub>
+## 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠 &nbsp; <sub>![](https://img.shields.io/badge/Status-still%20learning-FF0000?style=flat-square&labelColor=0d1117)</sub>
 
 <div align="center">
 
