@@ -85,7 +85,7 @@
 
 ---
 
-## 🐝 BeeStation — Main Project
+## 🐝 𝐁𝐞𝐞𝐒𝐭𝐚𝐭𝐢𝐨𝐧 — 𝐌𝐚𝐢𝐧 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 
 > Intelligent monitoring of bioclimatic variables in *Apis mellifera* hives using IoT sensors, developed in collaboration with **SENA Centro de Formación Minero Ambiental**.
 
