@@ -98,7 +98,7 @@
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/>>_VIEW_BEESTATION-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://jeronimoparra-ai.github.io/-Sistema-IoT-de-Monitoreo-Ap-cola/)
+[![View Project](https://img.shields.io/badge/>>_VIEW_BEESTATION-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://jeronimoparra-ai.github.io/BeeStation/)
 
 ---
 
