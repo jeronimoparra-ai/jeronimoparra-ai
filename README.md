@@ -149,5 +149,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,00FF41,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <sub>⚡ Every commit counts &nbsp;|&nbsp; El Bagre, Antioquia &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; <code>while(alive) { code(); }</code></sub>
+  <sub>⚡ Every commit counts &nbsp;|&nbsp; El Bagre, Antioquia &nbsp;|&nbsp; 2026 &nbsp;|&nbsp;
 </div>
