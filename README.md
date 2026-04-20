@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
+## ⚡𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 <div align="center">
 <br/>
@@ -121,7 +121,7 @@
 
 ---
 
-## 🎵 Listening on Spotify
+## 🎵 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝗼𝗻 𝗦𝗽𝗼𝘁𝗶𝗳𝘆
 
 <div align="center">
 
