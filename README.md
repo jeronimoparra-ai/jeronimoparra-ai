@@ -136,6 +136,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/>>_GitHub-jeronimoparra--ai-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/jeronimoparra-ai)
+[![Email](https://img.shields.io/badge/>>_Email-jeronimo.parra-0d1117?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:jeronimo.parra@est.iudigital.edu.co)
 
 </div>
 
