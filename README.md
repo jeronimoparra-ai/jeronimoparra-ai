@@ -153,6 +153,14 @@
 </div>
 <br/>
 
+
+
+
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,00FF41,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
