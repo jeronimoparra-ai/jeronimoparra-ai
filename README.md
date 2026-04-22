@@ -142,6 +142,12 @@
 
 ---
 
+
+
+
+
+
+
 <div align="center">
   <img src="./assets/Atajos_de_teclado.gif" width="100%" height="300px" style="object-fit:cover; border-radius:8px;"/>
 </div>
