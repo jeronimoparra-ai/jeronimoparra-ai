@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeronimoparra-ai&show_icons=true&theme=transparent&title_color=00FF41&icon_color=FF0000&text_color=00FF41&border_color=00FF41&count_private=true&rank_icon=github"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoparra-ai&layout=compact&theme=transparent&title_color=00FF41&text_color=00FF41&border_color=00FF41"/>
 
 <br/><br/>
