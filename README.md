@@ -107,7 +107,6 @@
 <div align="center">
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoparra-ai&layout=compact&theme=transparent&title_color=00FF41&text_color=00FF41&border_color=00FF41"/>
 
 <br/><br/>
 
