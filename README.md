@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="right"><sub> SEMESTER </sub></td>
-    <td>Second semester</td>
+    <td>Third semester</td>
   </tr>
   <tr>
     <td align="right"><sub> INSTITUTIONS </sub></td>
