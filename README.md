@@ -130,13 +130,23 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/DHT22-temp%20%26%20humidity-0d1117?style=flat-square&logo=espressif&logoColor=00FF41" alt="DHT22"/>
+<img src="https://img.shields.io/badge/HX711-weight-0d1117?style=flat-square&logo=espressif&logoColor=00FF41" alt="HX711"/>
+<img src="https://img.shields.io/badge/MAX9814-sound-0d1117?style=flat-square&logo=espressif&logoColor=00FF41" alt="MAX9814"/>
+<img src="https://img.shields.io/badge/MQ--135-air%20quality-0d1117?style=flat-square&logo=espressif&logoColor=00FF41" alt="MQ-135"/>
+<img src="https://img.shields.io/badge/PHP%20%2B%20MySQL-backend-0d1117?style=flat-square&logo=php&logoColor=FF3131" alt="PHP MySQL"/>
+
+</div>
+
 ```mermaid
 flowchart LR
-    A[🐝 Hive sensors<br/>temp · humidity] --> B[📟 ESP32]
-    B --> C[📡 Data transmission]
-    C --> D[📊 Analysis]
+    A[🐝 Hive sensors<br/>DHT22 · HX711 · MAX9814 · MQ-135] --> B[📟 ESP32]
+    B -->|HTTP POST| C[⚙️ PHP API<br/>ingest]
+    C --> D[(🗄️ MySQL)]
     D --> E[🔔 Alerts]
-    D --> F[🖥️ Dashboard]
+    D --> F[🖥️ Web dashboard]
     style A fill:#0d1117,stroke:#00FF41,color:#fff
     style B fill:#0d1117,stroke:#00FF41,color:#fff
     style C fill:#0d1117,stroke:#00FF41,color:#fff
@@ -161,16 +171,98 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 📌 &nbsp;Featured Repositories
+## 🚀 &nbsp;Projects
+
+> Every project has its own identity. Click a banner to open the repository.
+
+<br/>
+
+### 🎙️ &nbsp;Jarvis — voice assistant for Linux
 
 <div align="center">
 
-<a href="https://github.com/jeronimoparra-ai/BeeStation_Sena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeronimoparra-ai&repo=BeeStation_Sena&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=FF3131&text_color=c9d1d9&cache_seconds=86400" alt="BeeStation repo"/>
+<a href="https://github.com/jeronimoparra-ai/jarvis">
+  <img src="./assets/jarvis.svg" width="100%" alt="Jarvis banner"/>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/platform-linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/STT-faster--whisper-7C3AED?style=flat-square" alt="faster-whisper"/>
+<img src="https://img.shields.io/badge/TTS-piper-0E7490?style=flat-square" alt="Piper"/>
+<img src="https://img.shields.io/badge/LLM-groq%20%7C%20ollama-FF6B35?style=flat-square" alt="Groq Ollama"/>
+<img src="https://img.shields.io/badge/license-MIT-22C55E?style=flat-square" alt="MIT"/>
+
+<br/><br/>
+
+| 🎯 Rules first | 🧩 Modular skills | 🛡️ Safe by design | 💻 Works without a mic |
+|:-:|:-:|:-:|:-:|
+| Deterministic router; the LLM is only a fallback | Each skill is one file in `skills/` | Command whitelist + spoken `confirma` | Keyboard simulation mode |
+
+<a href="https://github.com/jeronimoparra-ai/jarvis"><img src="https://img.shields.io/badge/%3E%3E_OPEN_JARVIS-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117" alt="Open Jarvis"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
+
+### 📱 &nbsp;Productivity App — your academic productivity assistant
+
+<div align="center">
+
+<a href="https://github.com/jeronimoparra-ai/proyectos">
+  <img src="./assets/productivity-app.svg" width="100%" alt="Productivity App banner"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React%20Native-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-1a1a2e?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
+
+<br/><br/>
+
+| ✅ Tasks | 📅 Calendar | 🧠 Spaced repetition | ✨ AI |
+|:-:|:-:|:-:|:-:|
+| Priorities, dates, reminders and subtasks | Monthly and weekly views | SM-2 algorithm to study smarter | Summaries and review questions |
+
+<a href="https://github.com/jeronimoparra-ai/proyectos"><img src="https://img.shields.io/badge/%3E%3E_OPEN_THE_APP-7C5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Open the app"/></a>
+<a href="https://github.com/jeronimoparra-ai/proyectos#descargar-la-app"><img src="https://img.shields.io/badge/%3E%3E_DOWNLOAD_APK-2DD4BF?style=for-the-badge&logo=android&logoColor=0d1117" alt="Download APK"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
+
+### 📝 &nbsp;ProcessAdmin — academic writing and APA 7 in the browser
+
+<div align="center">
+
 <a href="https://github.com/jeronimoparra-ai/processadmin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeronimoparra-ai&repo=processadmin&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=FF3131&text_color=c9d1d9&cache_seconds=86400" alt="ProcessAdmin repo"/>
+  <img src="./assets/processadmin.svg" width="100%" alt="ProcessAdmin banner"/>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML-0f1f4a?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-0f1f4a?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-0f1f4a?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Chart.js-0f1f4a?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Chart.js"/>
+<img src="https://img.shields.io/badge/license-MIT-14B8A6?style=flat-square" alt="MIT"/>
+
+<br/><br/>
+
+| ✍️ Assisted writer | 📚 APA 7 manager | 📊 Rubric evaluator | 📄 Word export |
+|:-:|:-:|:-:|:-:|
+| Plan and draft academic work | References and citations | Chart of your rubric score | Real `.docx` with APA 7 format |
+
+<a href="https://processadmin.vercel.app"><img src="https://img.shields.io/badge/%3E%3E_LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/jeronimoparra-ai/processadmin"><img src="https://img.shields.io/badge/%3E%3E_SOURCE_CODE-14B8A6?style=for-the-badge&logo=github&logoColor=0d1117" alt="Source code"/></a>
 
 </div>
 
@@ -206,7 +298,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=640&height=30&lines=%24+git+commit+-m+%22BeeStation+progress%22;%24+n8n+start+--tunnel;%24+npm+run+learn+--forever;%24+echo+%22see+you+in+the+next+commit%22" alt="Terminal typing"/>
+<img src="./assets/terminal.svg" width="100%" alt="Animated terminal"/>
 
 <br/>
 
