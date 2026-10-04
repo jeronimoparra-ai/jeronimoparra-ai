@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td align="right"><sub>&nbsp;NAME&nbsp;</sub></td>
-    <td><samp><b>Andrés Jeronimo Parra Bastidas</b></samp></td>
+    <td><samp><b>Andrés Parra</b></samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;LOCATION&nbsp;</sub></td>
