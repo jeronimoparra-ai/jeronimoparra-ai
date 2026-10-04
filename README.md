@@ -101,8 +101,8 @@
 <h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ BEESTATION ◀</samp></h2>
 
 <div align="center">
-  <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/beestation.svg">
-    <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/beestation.svg" width="100%" alt="BeeStation animated banner"/>
+  <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/beestation%20%281%29.svg">
+    <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/beestation%20%281%29.svg" width="100%" alt="BeeStation animated banner"/>
   </a>
 </div>
 
