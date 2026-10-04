@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003b10,100:00FF41&height=230&section=header&text=Andr%C3%A9s%20Jeronimo%20Parra&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Software%20Developer%20in%20Progress%20%E2%9A%A1&descSize=20&descColor=00FF41&descAlignY=60&animation=twinkling" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003b10,100:00FF41&height=230&section=header&text=Andr%C3%A9s%20%20Parra&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Software%20Developer%20in%20Progress%20%E2%9A%A1&descSize=20&descColor=00FF41&descAlignY=60&animation=twinkling" width="100%" alt="Header"/>
 
 <a href="https://github.com/jeronimoparra-ai">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=760&height=50&lines=Welcome+to+my+profile+%F0%9F%91%8B;Building+BeeStation+%E2%80%94+IoT+for+Beekeeping+%F0%9F%90%9D;Web+%C2%B7+IoT+%C2%B7+Automation+%C2%B7+AI;Every+commit+is+a+step+forward+%F0%9F%9A%80" alt="Typing animation"/>
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td align="right"><sub>&nbsp;NAME&nbsp;</sub></td>
-    <td><samp><b>Andrés Parra</b></samp></td>
+    <td><samp><b>Andrés Jeronimo Parra Bastidas</b></samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;LOCATION&nbsp;</sub></td>
