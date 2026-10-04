@@ -21,9 +21,7 @@
 
 <br/>
 
-<a href="https://github.com/jeronimoparra-ai"><img src="https://img.shields.io/github/followers/jeronimoparra-ai?label=Followers&style=flat-square&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41" alt="followers"/></a>
-<a href="https://github.com/jeronimoparra-ai?tab=repositories"><img src="https://img.shields.io/badge/Repositories-explore-FF3131?style=flat-square&labelColor=0d1117&logo=github&logoColor=FF3131" alt="repositories"/></a>
-<a href="https://jeronimoparra-ai.github.io/BeeStation/"><img src="https://img.shields.io/badge/Live%20demo-BeeStation-00FF41?style=flat-square&labelColor=0d1117&logo=githubpages&logoColor=00FF41" alt="beestation"/></a>
+<a href="https://github.com/jeronimoparra-ai"><img src="https://img.shields.io/github/followers/jeronimoparra-ai?label=Followers&style=flat-square&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41" alt="followers"/></a> <a href="https://github.com/jeronimoparra-ai?tab=repositories"><img src="https://img.shields.io/badge/Repositories-explore-FF3131?style=flat-square&labelColor=0d1117&logo=github&logoColor=FF3131" alt="repositories"/></a> <a href="https://jeronimoparra-ai.github.io/BeeStation/"><img src="https://img.shields.io/badge/Live%20demo-BeeStation-00FF41?style=flat-square&labelColor=0d1117&logo=githubpages&logoColor=00FF41" alt="beestation"/></a>
 
 </div>
 
@@ -31,7 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/about.svg" width="100%" alt="About Me"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/about.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/about.svg" width="100%" alt="About Me"/></a>
 
 <div align="center">
 
@@ -72,36 +70,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/stack.svg" width="100%" alt="Tech Stack"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/stack.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/stack.svg" width="100%" alt="Tech Stack"/></a>
 
 <div align="center">
 
-**`// Languages`**<br/>
-<img src="https://skillicons.dev/icons?i=js,html,css,php,python,cpp&theme=dark" alt="languages"/>
+**`// Languages`**<br/> <img src="https://skillicons.dev/icons?i=js,html,css,php,python,cpp&theme=dark" alt="languages"/>
 
 <br/>
 
-**`// Backend & Data`**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,nodejs&theme=dark" alt="backend"/>
+**`// Backend & Data`**<br/> <img src="https://skillicons.dev/icons?i=mysql,nodejs&theme=dark" alt="backend"/>
 
 <br/>
 
-**`// Hardware & IoT`**<br/>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino"/>&nbsp;
-<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=FF3131" alt="ESP32"/>
+**`// Hardware & IoT`**<br/> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino"/>  <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=FF3131" alt="ESP32"/>
 
 <br/>
 
-**`// Automation & AI`**<br/>
-<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=FF3131" alt="n8n"/>&nbsp;
-<img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>&nbsp;
-<img src="https://img.shields.io/badge/Telegram%20Bots-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
+**`// Automation & AI`**<br/> <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=FF3131" alt="n8n"/>  <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>  <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>  <img src="https://img.shields.io/badge/Telegram%20Bots-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
 
 <br/>
 
-**`// Tools`**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark" alt="tools"/>
+**`// Tools`**<br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel&theme=dark" alt="tools"/>
 
 </div>
 
@@ -109,10 +98,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/beestation.svg" width="100%" alt="BeeStation — Main Project"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/beestation.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/beestation.svg" width="100%" alt="BeeStation — Main Project"/></a>
 
 <div align="center">
-  <img src="./assets/beestation.svg" width="100%" alt="BeeStation animated banner"/>
+  <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/beestation.svg">
+    <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/beestation.svg" width="100%" alt="BeeStation animated banner"/>
+  </a>
 </div>
 
 <br/>
@@ -121,12 +112,12 @@
 
 <div align="center">
 
-| | Feature | Description |
-|:-:|---|---|
-| 🌡️ | **<samp>Temperature & Humidity</samp>** | <samp>Real-time monitoring inside the hive</samp> |
-| 📡 | **<samp>Data Transmission</samp>** | <samp>Live data stream from IoT sensors</samp> |
-| 📊 | **<samp>Data Analysis</samp>** | <samp>Tracking of optimal conditions for the colony</samp> |
-| 🔔 | **<samp>Alert System</samp>** | <samp>Notifications when conditions turn critical</samp> |
+|     | Feature                                 | Description                                                |
+| :-: | --------------------------------------- | ---------------------------------------------------------- |
+| 🌡️ | **<samp>Temperature & Humidity</samp>** | <samp>Real-time monitoring inside the hive</samp>          |
+|  📡 | **<samp>Data Transmission</samp>**      | <samp>Live data stream from IoT sensors</samp>             |
+|  📊 | **<samp>Data Analysis</samp>**          | <samp>Tracking of optimal conditions for the colony</samp> |
+|  🔔 | **<samp>Alert System</samp>**           | <samp>Notifications when conditions turn critical</samp>   |
 
 </div>
 
@@ -171,18 +162,18 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/projects.svg" width="100%" alt="Projects"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/projects.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/projects.svg" width="100%" alt="Projects"/></a>
 
 > `// every project has its own identity — click a banner to open the repository`
 
 <br/>
 
-### 🎙️ &nbsp;<samp>jarvis — voice assistant for Linux</samp>
+### 🎙️  <samp>jarvis — voice assistant for Linux</samp>
 
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/jarvis">
-  <img src="./assets/jarvis.svg" width="100%" alt="Jarvis banner"/>
+  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/jarvis.svg" width="100%" alt="Jarvis banner"/>
 </a>
 
 <br/>
@@ -196,8 +187,8 @@ flowchart LR
 
 <br/><br/>
 
-| 🎯 Rules first | 🧩 Modular skills | 🛡️ Safe by design | 💻 Works without a mic |
-|:-:|:-:|:-:|:-:|
+|                  🎯 Rules first                  |          🧩 Modular skills          |           🛡️ Safe by design          |  💻 Works without a mic  |
+| :----------------------------------------------: | :---------------------------------: | :-----------------------------------: | :----------------------: |
 | Deterministic router; the LLM is only a fallback | Each skill is one file in `skills/` | Command whitelist + spoken `confirma` | Keyboard simulation mode |
 
 <a href="https://github.com/jeronimoparra-ai/jarvis"><img src="https://img.shields.io/badge/%3E%3E_OPEN_JARVIS-00D4FF?style=for-the-badge&logo=github&logoColor=0d1117" alt="Open Jarvis"/></a>
@@ -208,12 +199,12 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-### 📱 &nbsp;<samp>productivity-app — your academic productivity assistant</samp>
+### 📱  <samp>productivity-app — your academic productivity assistant</samp>
 
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/proyectos">
-  <img src="./assets/productivity-app.svg" width="100%" alt="Productivity App banner"/>
+  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/productivity-app.svg" width="100%" alt="Productivity App banner"/>
 </a>
 
 <br/>
@@ -226,12 +217,11 @@ flowchart LR
 
 <br/><br/>
 
-| ✅ Tasks | 📅 Calendar | 🧠 Spaced repetition | ✨ AI |
-|:-:|:-:|:-:|:-:|
+|                  ✅ Tasks                  |        📅 Calendar       |       🧠 Spaced repetition      |              ✨ AI              |
+| :---------------------------------------: | :----------------------: | :-----------------------------: | :----------------------------: |
 | Priorities, dates, reminders and subtasks | Monthly and weekly views | SM-2 algorithm to study smarter | Summaries and review questions |
 
-<a href="https://github.com/jeronimoparra-ai/proyectos"><img src="https://img.shields.io/badge/%3E%3E_OPEN_THE_APP-7C5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Open the app"/></a>
-<a href="https://github.com/jeronimoparra-ai/proyectos#descargar-la-app"><img src="https://img.shields.io/badge/%3E%3E_DOWNLOAD_APK-2DD4BF?style=for-the-badge&logo=android&logoColor=0d1117" alt="Download APK"/></a>
+<a href="https://github.com/jeronimoparra-ai/proyectos"><img src="https://img.shields.io/badge/%3E%3E_OPEN_THE_APP-7C5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Open the app"/></a> <a href="https://github.com/jeronimoparra-ai/proyectos#descargar-la-app"><img src="https://img.shields.io/badge/%3E%3E_DOWNLOAD_APK-2DD4BF?style=for-the-badge&logo=android&logoColor=0d1117" alt="Download APK"/></a>
 
 </div>
 
@@ -239,12 +229,12 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-### 📝 &nbsp;<samp>processadmin — academic writing and APA 7 in the browser</samp>
+### 📝  <samp>processadmin — academic writing and APA 7 in the browser</samp>
 
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/processadmin">
-  <img src="./assets/processadmin.svg" width="100%" alt="ProcessAdmin banner"/>
+  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/processadmin.svg" width="100%" alt="ProcessAdmin banner"/>
 </a>
 
 <br/>
@@ -257,12 +247,11 @@ flowchart LR
 
 <br/><br/>
 
-| ✍️ Assisted writer | 📚 APA 7 manager | 📊 Rubric evaluator | 📄 Word export |
-|:-:|:-:|:-:|:-:|
+|      ✍️ Assisted writer      |     📚 APA 7 manager     |     📊 Rubric evaluator    |         📄 Word export         |
+| :--------------------------: | :----------------------: | :------------------------: | :----------------------------: |
 | Plan and draft academic work | References and citations | Chart of your rubric score | Real `.docx` with APA 7 format |
 
-<a href="https://processadmin.vercel.app"><img src="https://img.shields.io/badge/%3E%3E_LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
-<a href="https://github.com/jeronimoparra-ai/processadmin"><img src="https://img.shields.io/badge/%3E%3E_SOURCE_CODE-14B8A6?style=for-the-badge&logo=github&logoColor=0d1117" alt="Source code"/></a>
+<a href="https://processadmin.vercel.app"><img src="https://img.shields.io/badge/%3E%3E_LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a> <a href="https://github.com/jeronimoparra-ai/processadmin"><img src="https://img.shields.io/badge/%3E%3E_SOURCE_CODE-14B8A6?style=for-the-badge&logo=github&logoColor=0d1117" alt="Source code"/></a>
 
 </div>
 
@@ -270,7 +259,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/stats.svg" width="100%" alt="GitHub Stats"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/stats.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/stats.svg" width="100%" alt="GitHub Stats"/></a>
 
 <div align="center">
 
@@ -282,6 +271,7 @@ flowchart LR
 ### 🐍 <samp>contribution_snake</samp>
 
 <!-- Generated by .github/workflows/snake.yml into the "output" branch -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/output/github-snake.svg"/>
@@ -294,16 +284,18 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/currently.svg" width="100%" alt="Currently"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/currently.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/currently.svg" width="100%" alt="Currently"/></a>
 
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal"/>
+<a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/terminal.svg">
+  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/terminal.svg" width="100%" alt="Animated terminal"/>
+</a>
 
 <br/>
 
-| 🔭 Working on | 🌱 Learning | 🎯 Goal |
-|:-:|:-:|:-:|
+|                 🔭 Working on                |                     🌱 Learning                     |                       🎯 Goal                       |
+| :------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
 | <samp>BeeStation (IoT for beekeeping)</samp> | <samp>JavaScript · Git · automation with n8n</samp> | <samp>Build a freelance career in automation</samp> |
 
 </div>
@@ -312,12 +304,12 @@ flowchart LR
 <summary><b><samp>🗺️ &nbsp;roadmap_2026 (click to expand)</samp></b></summary>
 <br/>
 
-- [x] Start the BeeStation IoT project with SENA
-- [x] Build my first automations with n8n
-- [x] Publish a profile that shows my work
-- [ ] Ship BeeStation with live sensor data
-- [ ] Land my first freelance automation client
-- [ ] Keep a contribution streak going 🐍
+* [x] Start the BeeStation IoT project with SENA
+* [x] Build my first automations with n8n
+* [x] Publish a profile that shows my work
+* [ ] Ship BeeStation with live sensor data
+* [ ] Land my first freelance automation client
+* [ ] Keep a contribution streak going 🐍
 
 </details>
 
@@ -325,12 +317,11 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <img src="./assets/headings/connect.svg" width="100%" alt="Connect With Me"/>
+## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/connect.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/connect.svg" width="100%" alt="Connect With Me"/></a>
 
 <div align="center">
 
-<a href="https://github.com/jeronimoparra-ai"><img src="https://img.shields.io/badge/GitHub-jeronimoparra--ai-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
-<a href="mailto:jeronimo.parra@est.iudigital.edu.co"><img src="https://img.shields.io/badge/Email-jeronimo.parra-0d1117?style=for-the-badge&logo=gmail&logoColor=FF3131" alt="Email"/></a>
+<a href="https://github.com/jeronimoparra-ai"><img src="https://img.shields.io/badge/GitHub-jeronimoparra--ai-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a> <a href="mailto:jeronimo.parra@est.iudigital.edu.co"><img src="https://img.shields.io/badge/Email-jeronimo.parra-0d1117?style=for-the-badge&logo=gmail&logoColor=FF3131" alt="Email"/></a>
 
 <br/><br/>
 
@@ -341,6 +332,7 @@ flowchart LR
 <br/>
 
 <!-- Keyboard shortcuts GIF: make sure ./assets/Atajos_de_teclado.gif exists in the repo -->
+
 <div align="center">
   <img src="./assets/Atajos_de_teclado.gif" width="100%" height="300" alt="Keyboard shortcuts"/>
 </div>
