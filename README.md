@@ -29,7 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/about.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/about.svg" width="100%" alt="About Me"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ ABOUT ME ◀</samp></h2>
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/stack.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/stack.svg" width="100%" alt="Tech Stack"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ TECH STACK ◀</samp></h2>
 
 <div align="center">
 
@@ -98,11 +98,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/beestation.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/beestation.svg" width="100%" alt="BeeStation — Main Project"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ BEESTATION ◀</samp></h2>
 
 <div align="center">
   <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/beestation.svg">
-    <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/beestation.svg" width="100%" alt="BeeStation animated banner"/>
+    <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/beestation.svg" width="100%" alt="BeeStation animated banner"/>
   </a>
 </div>
 
@@ -162,7 +162,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/projects.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/projects.svg" width="100%" alt="Projects"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ PROJECTS ◀</samp></h2>
 
 > `// every project has its own identity — click a banner to open the repository`
 
@@ -173,7 +173,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/jarvis">
-  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/jarvis.svg" width="100%" alt="Jarvis banner"/>
+  <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/jarvis.svg" width="100%" alt="Jarvis banner"/>
 </a>
 
 <br/>
@@ -204,7 +204,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/proyectos">
-  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/productivity-app.svg" width="100%" alt="Productivity App banner"/>
+  <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/productivity-app.svg" width="100%" alt="Productivity App banner"/>
 </a>
 
 <br/>
@@ -234,7 +234,7 @@ flowchart LR
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/processadmin">
-  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/processadmin.svg" width="100%" alt="ProcessAdmin banner"/>
+  <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/processadmin.svg" width="100%" alt="ProcessAdmin banner"/>
 </a>
 
 <br/>
@@ -259,7 +259,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/stats.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/stats.svg" width="100%" alt="GitHub Stats"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ GITHUB STATS ◀</samp></h2>
 
 <div align="center">
 
@@ -284,12 +284,12 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/currently.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/currently.svg" width="100%" alt="Currently"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ CURRENTLY ◀</samp></h2>
 
 <div align="center">
 
 <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/terminal.svg">
-  <img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/terminal.svg" width="100%" alt="Animated terminal"/>
+  <img src="https://cdn.jsdelivr.net/gh/jeronimoparra-ai/jeronimoparra-ai@main/assets/terminal.svg" width="100%" alt="Animated terminal"/>
 </a>
 
 <br/>
@@ -317,7 +317,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## <a href="https://github.com/jeronimoparra-ai/jeronimoparra-ai/blob/main/assets/headings/connect.svg"><img src="https://raw.githubusercontent.com/jeronimoparra-ai/jeronimoparra-ai/main/assets/headings/connect.svg" width="100%" alt="Connect With Me"/></a>
+<h2 align="center"><samp style="color:#00FF41;background:#0d1117;border:2px solid #00FF41;border-radius:6px;padding:8px 28px;font-size:26px;letter-spacing:3px;font-weight:700;">▶ CONNECT WITH ME ◀</samp></h2>
 
 <div align="center">
 
