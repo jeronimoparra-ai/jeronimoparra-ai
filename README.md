@@ -31,38 +31,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 👾 &nbsp;About Me
+## <img src="./assets/headings/about.svg" width="100%" alt="About Me"/>
 
 <div align="center">
 
 <table>
   <tr>
     <td align="right"><sub>&nbsp;NAME&nbsp;</sub></td>
-    <td><b>Andrés Jeronimo Parra Bastidas</b></td>
+    <td><samp><b>Andrés Jeronimo Parra Bastidas</b></samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;LOCATION&nbsp;</sub></td>
-    <td>El Bagre, Antioquia 🇨🇴</td>
+    <td><samp>El Bagre, Antioquia 🇨🇴</samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;DEGREE&nbsp;</sub></td>
-    <td>Technology in Software Development · 3rd semester</td>
+    <td><samp>Technology in Software Development · 3rd semester</samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;STUDYING AT&nbsp;</sub></td>
-    <td>IU Digital de Antioquia &nbsp;·&nbsp; SENA</td>
+    <td><samp>IU Digital de Antioquia &nbsp;·&nbsp; SENA</samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;FOCUS&nbsp;</sub></td>
-    <td>Web development · IoT · Automation · AI tooling</td>
+    <td><samp>Web development · IoT · Automation · AI tooling</samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;MAIN PROJECT&nbsp;</sub></td>
-    <td>🐝 <a href="https://jeronimoparra-ai.github.io/BeeStation/">BeeStation</a></td>
+    <td><samp>🐝 <a href="https://jeronimoparra-ai.github.io/BeeStation/">BeeStation</a></samp></td>
   </tr>
   <tr>
     <td align="right"><sub>&nbsp;PHILOSOPHY&nbsp;</sub></td>
-    <td><i>Learn · Build · Iterate · Grow</i></td>
+    <td><samp><i>Learn · Build · Iterate · Grow</i></samp></td>
   </tr>
 </table>
 
@@ -72,7 +72,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 🛠️ &nbsp;Tech Stack
+## <img src="./assets/headings/stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -109,7 +109,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 🐝 &nbsp;BeeStation — Main Project
+## <img src="./assets/headings/beestation.svg" width="100%" alt="BeeStation — Main Project"/>
 
 <div align="center">
   <img src="./assets/beestation.svg" width="100%" alt="BeeStation animated banner"/>
@@ -123,10 +123,10 @@
 
 | | Feature | Description |
 |:-:|---|---|
-| 🌡️ | **Temperature & Humidity** | Real-time monitoring inside the hive |
-| 📡 | **Data Transmission** | Live data stream from IoT sensors |
-| 📊 | **Data Analysis** | Tracking of optimal conditions for the colony |
-| 🔔 | **Alert System** | Notifications when conditions turn critical |
+| 🌡️ | **<samp>Temperature & Humidity</samp>** | <samp>Real-time monitoring inside the hive</samp> |
+| 📡 | **<samp>Data Transmission</samp>** | <samp>Live data stream from IoT sensors</samp> |
+| 📊 | **<samp>Data Analysis</samp>** | <samp>Tracking of optimal conditions for the colony</samp> |
+| 🔔 | **<samp>Alert System</samp>** | <samp>Notifications when conditions turn critical</samp> |
 
 </div>
 
@@ -171,13 +171,13 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 🚀 &nbsp;Projects
+## <img src="./assets/headings/projects.svg" width="100%" alt="Projects"/>
 
-> Every project has its own identity. Click a banner to open the repository.
+> `// every project has its own identity — click a banner to open the repository`
 
 <br/>
 
-### 🎙️ &nbsp;Jarvis — voice assistant for Linux
+### 🎙️ &nbsp;<samp>jarvis — voice assistant for Linux</samp>
 
 <div align="center">
 
@@ -208,7 +208,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-### 📱 &nbsp;Productivity App — your academic productivity assistant
+### 📱 &nbsp;<samp>productivity-app — your academic productivity assistant</samp>
 
 <div align="center">
 
@@ -239,7 +239,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-### 📝 &nbsp;ProcessAdmin — academic writing and APA 7 in the browser
+### 📝 &nbsp;<samp>processadmin — academic writing and APA 7 in the browser</samp>
 
 <div align="center">
 
@@ -270,7 +270,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 📊 &nbsp;GitHub Stats
+## <img src="./assets/headings/stats.svg" width="100%" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -279,7 +279,7 @@ flowchart LR
 
 <br/><br/>
 
-### 🐍 Contribution snake
+### 🐍 <samp>contribution_snake</samp>
 
 <!-- Generated by .github/workflows/snake.yml into the "output" branch -->
 <picture>
@@ -294,7 +294,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 🎯 &nbsp;Currently
+## <img src="./assets/headings/currently.svg" width="100%" alt="Currently"/>
 
 <div align="center">
 
@@ -304,12 +304,12 @@ flowchart LR
 
 | 🔭 Working on | 🌱 Learning | 🎯 Goal |
 |:-:|:-:|:-:|
-| BeeStation (IoT for beekeeping) | JavaScript · Git · automation with n8n | Build a freelance career in automation |
+| <samp>BeeStation (IoT for beekeeping)</samp> | <samp>JavaScript · Git · automation with n8n</samp> | <samp>Build a freelance career in automation</samp> |
 
 </div>
 
 <details>
-<summary><b>🗺️ &nbsp;Roadmap 2026 (click to expand)</b></summary>
+<summary><b><samp>🗺️ &nbsp;roadmap_2026 (click to expand)</samp></b></summary>
 <br/>
 
 - [x] Start the BeeStation IoT project with SENA
@@ -325,7 +325,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider"/>
 
-## 📫 &nbsp;Connect With Me
+## <img src="./assets/headings/connect.svg" width="100%" alt="Connect With Me"/>
 
 <div align="center">
 
